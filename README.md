@@ -74,7 +74,7 @@ When a video errors, a diagnostics panel opens by itself for 25 seconds. Press *
 
 Please include the first six lines of the panel when opening a video issue.
 
-## Dashboard app (optional)
+## Dashboard app 
 
 `SPLK00001/` is a game-style folder (`eboot.bin`, `sce_sys/param.json`, `sce_sys/icon0.png`).
 
